@@ -1,0 +1,90 @@
+1. Create a loop that prints even numbers until it reaches your "highest golf score" or,
+if your "highest golf score" is an odd number, prints out odd numbers until it reaches your "highest golf score".
+For example, it might print out some- thing like this:
+2 4 6 8 10 12 14
+
+2. Create a list containing 10 favorite foods, such as the following:
+>>> foods = ['snails', 'leeches', 'gorilla belly-button lint', 'caterpillar eyebrows', 'centipede toes']
+and print them like
+1 snails
+2 leeches
+till 10th item
+
+3. Print multiplication table of given number using for loop. For eg: if
+i/p -> num = 2
+o/p ->
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+4. Print First 10 natural numbers using while loop
+
+5. Display -10 to -1 using for loop
+Expected output:
+
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+
+
+6. Print sum of number from 1 to n. `n` can be any number. Example if n = 5, sum = 1+2+3+4+5 = 15
+
+7. Display a message “Done” after successful execution of for loop
+For example, the following loop will execute without any error.
+
+for i in range(5):
+    print(i)
+So the Expected output should be:
+0
+1
+2
+3
+4
+Done!
+
+8. Given a list iterate it and display numbers which are divisible by 5 and if you find number greater than 150 stop the loop iteration
+list1 = [12, 15, 32, 42, 55, 75, 122, 132, 150, 180, 200]
+
+9: Your Weight on the Mars
+If you were standing on the mars right now,
+your weight would be 50 percent of what it is on Earth. You can calculate that by multiplying your Earth weight by 0.5.
+If you gained 3 kilos in weight every year for the next 25 years,
+what would your weight be when you visited the mars each year and at the end of the 25 years?
+Write a program using a for loop that prints your mars weight for each year.
+
+10. Your savings in bank
+Today if you have 300$ in bank and bank provides you interest of 3% every year.
+It means
+at end of year 1 you will have 300$ + 0.03*300$ = 309$
+at end of year 2 you will have 309$ + 0.03*309$ = 318.27$
+Write a for loop to calculate your savings at end of 30 years?
+
+12. Print the following pattern using for loop
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+13. Print the following pattern using for loop
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
+
+14. Given a number n, find sum of its digits. If n = 21, sum = 2+1 = 3
